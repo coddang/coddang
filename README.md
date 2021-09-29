@@ -2,7 +2,7 @@
 <p> 👋&nbsp; Hi there! I'm <b>mobile app developer</b> using   iOS <br/>
 I became a developer because I wanted to do something valuable in the world. 🌎 <br/>
 <br/> Like a pyramid, I'm in front of a computer day and night. ⛰ <br/> 
-I am eligible for scuba diving and like running and running time. 🏊‍♂️ 🏃‍♂️ <br/>
+I am eligible for scuba diving and like running and IDE RunTime. 🏊‍♂️ 🏃‍♂️ <br/>
 
 
 
