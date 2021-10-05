@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=Realm&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   </br>
-  <img src="https://img.shields.io/badge/Adobe Illustrator-FFCA28?style=flat-square&logo=Adobeillustrator&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe Illustrator-FFCA28?style=flat-square&logo=Adobeillustrator&logoColor=black"/>
   <img src="https://img.shields.io/badge/Adobe XD-8E44AD?style=flat-square&logo=AdobeXD&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Adobe Premiere Pro-39477F?style=flat-square&logo=AdobePremierePro&logoColor=white"/>
 </p>
