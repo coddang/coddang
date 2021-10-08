@@ -1,4 +1,4 @@
-<p>
+<!-- <p>
   <a href="mailto:leo.algodev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/leo.algodev@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/> 
   <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/> 
@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Adobe Illustrator-FFCA28?style=flat-square&logo=Adobeillustrator&logoColor=black"/>
   <img src="https://img.shields.io/badge/Adobe XD-8E44AD?style=flat-square&logo=AdobeXD&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Adobe Premiere Pro-39477F?style=flat-square&logo=AdobePremierePro&logoColor=white"/>
-</p>
+</p> -->
 
 
 <p> 👋🏻&nbsp; Hi there! I'm a <b>mobile app developer</b> using <b>  iOS</b> <br/>
