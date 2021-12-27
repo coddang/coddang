@@ -12,7 +12,7 @@
 </p> -->
 
 
-<p> Hi there! I'm a <b>mobile app developer</b> using <b>iOS</b> <br/>
+<p> Hi there! I'm a <b>mobile app developer</b>
 I became a developer because I wanted to do something valuable in the world.<br/>
 <br/> Like a pyramid, I'm in front of a computer day and night.<br/> 
 I am eligible for <b>scuba diving</b> and like <b>running</b> and <b>IDE RunTime</b>.<br/>
